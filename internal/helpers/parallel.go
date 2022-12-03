@@ -4,7 +4,7 @@ import (
 	"image"
 	"sync"
 
-	"github.com/ProninIgorr/fingerprint/internal/matrix"
+	"github.com/ProninIgorr/loader/internal/matrix"
 )
 
 // GenerateSubBounds на основе входной матрицы.Полезно для запуска алгоритмов
