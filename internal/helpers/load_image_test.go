@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ProninIgorr/fingerprint/internal/matrix"
+	"github.com/ProninIgorr/loader/internal/matrix"
 )
 
 func TestLoadImage(t *testing.T) {
