@@ -5,9 +5,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/ProninIgorr/fingerprint/internal/helpers"
-	"github.com/ProninIgorr/fingerprint/internal/matrix"
-	"github.com/ProninIgorr/fingerprint/internal/types"
+	"github.com/ProninIgorr/loader/internal/helpers"
+	"github.com/ProninIgorr/loader/internal/matrix"
+	"github.com/ProninIgorr/loader/internal/types"
 )
 
 func Normalize(in, out *matrix.M, meta types.Metadata) {

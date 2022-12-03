@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/ProninIgorr/fingerprint/internal/matrix"
+	"github.com/ProninIgorr/loader/internal/matrix"
 	"github.com/nfnt/resize"
 	"github.com/sergeymakinen/go-bmp"
 )

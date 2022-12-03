@@ -1,9 +1,10 @@
 package processing
 
 import (
-	"github.com/ProninIgorr/fingerprint/internal/matrix"
-	"github.com/ProninIgorr/fingerprint/internal/types"
 	"math"
+
+	"github.com/ProninIgorr/loader/internal/matrix"
+	"github.com/ProninIgorr/loader/internal/types"
 )
 
 // Metadata метаданные о входном изображенииб которые можно повторно использовать

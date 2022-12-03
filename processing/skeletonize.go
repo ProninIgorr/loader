@@ -1,6 +1,6 @@
 package processing
 
-import "github.com/ProninIgorr/fingerprint/internal/matrix"
+import "github.com/ProninIgorr/loader/internal/matrix"
 
 func Skeletonize(in *matrix.M) {
 	bounds := in.Bounds()
